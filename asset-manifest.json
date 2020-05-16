@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_emp/static/css/main.4dce264f.chunk.css",
+    "main.js": "/react_emp/static/js/main.f18e4711.chunk.js",
+    "main.js.map": "/react_emp/static/js/main.f18e4711.chunk.js.map",
+    "runtime-main.js": "/react_emp/static/js/runtime-main.97907b1d.js",
+    "runtime-main.js.map": "/react_emp/static/js/runtime-main.97907b1d.js.map",
+    "static/js/2.676d3ff8.chunk.js": "/react_emp/static/js/2.676d3ff8.chunk.js",
+    "static/js/2.676d3ff8.chunk.js.map": "/react_emp/static/js/2.676d3ff8.chunk.js.map",
+    "index.html": "/react_emp/index.html",
+    "precache-manifest.37d7a2f59da8659dcd4c2b2b562f3e1d.js": "/react_emp/precache-manifest.37d7a2f59da8659dcd4c2b2b562f3e1d.js",
+    "service-worker.js": "/react_emp/service-worker.js",
+    "static/css/main.4dce264f.chunk.css.map": "/react_emp/static/css/main.4dce264f.chunk.css.map",
+    "static/js/2.676d3ff8.chunk.js.LICENSE.txt": "/react_emp/static/js/2.676d3ff8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97907b1d.js",
+    "static/js/2.676d3ff8.chunk.js",
+    "static/css/main.4dce264f.chunk.css",
+    "static/js/main.f18e4711.chunk.js"
+  ]
+}
